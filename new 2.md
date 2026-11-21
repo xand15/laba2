@@ -95,7 +95,7 @@ cout << a + b;
 | Зачёркнутый  |       ~~        | ~~текст~~ |
 
 ## 7. Изображение
-
+https://github.com/xand15/laba2/blob/main/Shutterstock_352176329.original.jpg
 ## 8. Формулы TeX
 
 Формула внутри строки: $(x+a)^n$.
