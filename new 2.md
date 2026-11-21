@@ -96,6 +96,7 @@ cout << a + b;
 
 ## 7. Изображение
 
+![Uploading image.png…]()
 
 
 ## 8. Формулы TeX
